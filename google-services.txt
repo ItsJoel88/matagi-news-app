@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780786268843",
+    "firebase_url": "https://testingkanban.firebaseio.com",
+    "project_id": "testingkanban",
+    "storage_bucket": "testingkanban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780786268843:android:186d16a4fa57280acb55ee",
+        "android_client_info": {
+          "package_name": "com.matagi.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780786268843-jrguf2eml1gph3t8o4g9ojjbqig6hum4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matagi.newsapp",
+            "certificate_hash": "0dd576a4d974bf67cf87b229422de78fb055d45b"
+          }
+        },
+        {
+          "client_id": "780786268843-736p2fs0ju1mr6qsos88g9c93mfarhqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGG7GzHTXaEKTueCVnji-9clQeHxL4Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780786268843-736p2fs0ju1mr6qsos88g9c93mfarhqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
